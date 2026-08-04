@@ -1663,3 +1663,14 @@
 		.section-divider-orange .goto-next {
 	bottom: 1.5em;
 }
+
+
+
+
+@media screen and (min-width: 981px) {
+    .spotlight.slideshow .image.main {
+        display: block;
+    }
+}
+
+
